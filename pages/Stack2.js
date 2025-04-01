@@ -10,7 +10,7 @@ export default function Stack2() {
 }
 
 const styles = {
-  conatiner: {
+  container: {
     flex: 1,
     justifyContent: "center",
     alignItems: "center",
